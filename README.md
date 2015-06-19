@@ -12,5 +12,6 @@ e.g. `git clone https://github.com/benthurgood/sandbox.git`
 e.g. `git commit -m "added gitignore"`
 7. Push changes to your repo with:
 `git push origin master`
+8. Create pull request
 
 
